@@ -21,4 +21,7 @@ git branch - to list the available branches
 git checkout branch_name - to change the branch 
 
 git remote -v - to check which account is connected
+
+.env - this files contains the credentials, these files are not added
+.gitignore -  this file ignore the files in the directory and wont push into github
 '''
