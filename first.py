@@ -24,4 +24,15 @@ git remote -v - to check which account is connected
 
 .env - this files contains the credentials, these files are not added
 .gitignore -  this file ignore the files in the directory and wont push into github
-'''
+
+git clone <link> -  clone a project to local computer
+git pull origin main - update changed made in git repo to the cloned folder
+
+
+working on branches
+--------------------
+
+git branch : list all branches
+git branch <branch_name> : creates new branch
+git switch <branch_name> : change branch
+ '''
